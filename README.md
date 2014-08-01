@@ -8,3 +8,5 @@ hello readme
 * feature C
 * and more over
 * from feature-D
+
+* add another changes from /another/git-tutorial
