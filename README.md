@@ -1,7 +1,7 @@
 hello readme
 
 # Git tutorial!!
-# And add it.
+# And add it.a
 
-# hellow and add it
-===== it is branch A ===== ====and more it's fix-B====
+# hellow and 
+===== it is branch A ===== ====
